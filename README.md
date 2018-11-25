@@ -7,7 +7,9 @@ Enter message bits :
 0                                                                                                                                
 1                                                                                                                                
 1                                                                                                                                
-1    
+1   
+..................hamming code check generation.......................                                                           
+xx1x011x1   
 .........................................                                                                                        
 x1011                                                                                                                            
 since no. of 1's is odd pos[1] will assigned as : 1                                                                              
